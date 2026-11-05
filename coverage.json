@@ -1,9 +1,9 @@
 {
   "software": "Softechpro Solutions v2.0.4",
-  "family": "Magneti Marelli MJD / MJT / IAW",
-  "slug": "marelli-tuning-software",
+  "repository": "marelli-tuning-software",
+  "title": "Magneti Marelli MJD / MJ8 / MJ9 ECU Tuning Software",
   "official_url": "https://www.softechpro-solutions.com/",
-  "matched_ecu_variants": 4962,
-  "matched_brands_count": 81,
-  "coverage_by_brand": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/marelli-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
